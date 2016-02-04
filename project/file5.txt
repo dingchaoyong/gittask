@@ -1,4 +1,6 @@
 this is a git test file "aaa" 
 bb 
 cc 
-dd
+ddfindMe 
+you can't find me 
+last modify 
